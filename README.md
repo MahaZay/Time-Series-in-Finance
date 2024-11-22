@@ -48,5 +48,5 @@ Apple's iPhone launches are significant corporate events that can influence inve
 - **Libraries:** `forecast`, `tseries`, `ggplot2`
 - **Tools:** RStudio for modeling and visualization
 
-## Repository Structure
+
 
